@@ -35,7 +35,6 @@ This project was developed as part of the **Graphics API Programming** course at
 ├── GeometryHelper.h      # Geometry creation with UV coordinates
 ├── RenderWidget.cpp      # Texture loading, SRV setup, drawing
 ├── System.cpp            # Application and message loop
-├── Textures/             # DDS/JPG texture files
 └── README.md             # Project documentation
 ```
 
